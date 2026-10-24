@@ -1,0 +1,10 @@
+{
+  "description": "Helps patients navigate hospital visits with OPD bookings, live queues, accessibility support and indoor directions, while staff coordinate emergency arrivals.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
